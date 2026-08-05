@@ -3,7 +3,7 @@
 # 🌹 BLOODY ROSE ANIME NEWS BOT 🌹
 ### ⛩️ Automated WhatsApp Channel Broadcaster ⛩️
 
-<img src="[PASTE_YOUR_CLOUD_IMAGE_LINK_HERE](https://www.image2url.com/r2/default/gifs/1785920123869-d73912df-cb9e-44ab-a313-26c89373b979.gif)" width="100%" alt="Bloody Rose Banner"/>
+<img src="https://www.image2url.com/r2/default/gifs/1785920123869-d73912df-cb9e-44ab-a313-26c89373b979.gif" width="100%" alt="Bloody Rose Banner"/>
 
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-v18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)[cite: 9]
