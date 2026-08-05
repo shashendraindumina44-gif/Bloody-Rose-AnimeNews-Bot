@@ -1,0 +1,23 @@
+{
+  "name": "BLOODY-ROSE-ANIMENEWS-BOT",
+  "version": "1.0.0",
+  "description": "Auto-scrapes AnimeCorner.me and posts new articles (image + title + description) to a WhatsApp Newsletter channel using Baileys.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "node-cron": "^3.0.3",
+    "pino": "^9.4.0",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
